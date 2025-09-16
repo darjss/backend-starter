@@ -2,7 +2,10 @@
   <h1>Elysia Starter</h1>
   <p>A batteries included API started built with <a href="https://elysiajs.com/" target="_blank"><b>ElysiaJS</b></a>.</p>
   <a href="https://railway.app/template/2TqJzK?referralCode=dlaCKJ" rel="nofollow"><img src="https://railway.app/button.svg" alt="Deploy on Railway" data-canonical-src="https://railway.app/button.svg" style="max-width: 100%;"></a>
+  <p>👉 <a href="https://github.com/sponsors/saltyaom">Sponsor the development of Elysia</a> 👈</p>
 </div>
+
+
 
 ## 🔋 Batteries Included
 
